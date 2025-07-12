@@ -38,7 +38,7 @@ C++ | Java | Python | Lua | HTML | CSS | JavaScript
 
 | Project              | Description                                                      |
 | -------------------- | ---------------------------------------------------------------- |
-| 🧵 GTA SAMP Bot      | Fake Teleport, Auto Work (Tailor, Oil) using MoonLoader + mimgui |
+| 🧵 GTA SAMP Bot      | Fake Teleport, Auto Work (Tailor, Oil)  MoonLoader & MonetLoader |
 | 🧠 TextDraw Detector | Live RPC scanner for GTA SAMP using Lua & event hook             |
 | 📱 Android App CI/CD | Auto-build APK + AAB with GitHub Actions + Firebase Deploy       |
 | 🧪 JNI Bridge        | Android app with native C++ module (linked via JNI)              |
