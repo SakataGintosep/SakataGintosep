@@ -55,8 +55,6 @@ C++ | Java | Python | Lua | HTML | CSS | JavaScript
 > Status   : 🚀 Always Building...
 ```
 
----
-
 ### 📫 Let's Connect!
 
 [![Gmail](https://img.shields.io/badge/-nacandranana@gmail.com-D14836?style=flat\&logo=Gmail\&logoColor=white)](mailto:nacandranana@gmail.com)
@@ -69,7 +67,8 @@ C++ | Java | Python | Lua | HTML | CSS | JavaScript
 </p>
 ```
 
-
+```
+```
 
 ### 💻 Skill Progress
 
