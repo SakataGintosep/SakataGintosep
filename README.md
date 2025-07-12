@@ -20,7 +20,7 @@ C++ | Java | Python | Lua | HTML | CSS | JavaScript
 📦 Experienced in Firebase, GitHub Actions CI/CD, and Crashlytics
 
 ---
-
+`````
 ### 🧰 Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-000?\&logo=Java\&logoColor=red)
