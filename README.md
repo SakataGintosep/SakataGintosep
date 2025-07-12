@@ -1,7 +1,7 @@
 
 ---
 
-````md
+
 <h1 align="center">Hi 👋, I'm Chandra Bima Saputra</h1>
 <h3 align="center">🚀 Full Stack Developer | Android & Game Scripting Enthusiast</h3>
 
