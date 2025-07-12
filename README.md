@@ -49,7 +49,7 @@ C++ | Java | Python | Lua | HTML | CSS | JavaScript
 ### 🧙 Terminal Style Intro
 
 ```
-> Welcome to NoLimits230's GitHub Terminal
+> Welcome to SakataGintosep's GitHub Terminal
 > Full Stack Developer / Bot Engineer
 > Skills   : Java, C++, Python, Lua, JS, HTML/CSS
 > Projects : GTA SAMP Bots | Android JNI | Firebase CI/CD
