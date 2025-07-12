@@ -1,6 +1,6 @@
 
 
-```md
+
 <h1 align="center">Hi 👋, I'm Putra Bima</h1>
 <h3 align="center">🚀 Full Stack Developer | Android & Game Scripting Enthusiast</h3>
 
@@ -11,8 +11,8 @@
 ```bash
 # Lang?
 C++ | Java | Python | Lua | HTML | CSS | JavaScript
-`````
 
+````
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
 
 🧠 Currently focused on: Android (Java + native C++ via JNI) & Game Bots (MoonLoader)
