@@ -65,20 +65,7 @@ C++ | Java | Python | Lua | HTML | CSS | JavaScript
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SakataGintosep&theme=radical" />
 </p>
-```
 
-
-
-### 💻 Skill Progress
-
-
-
-Java        \[██████████] 100%
-C++         \[█████████░] 90%
-Lua         \[████████░░] 80%
-Python      \[███████░░░] 70%
-HTML/CSS    \[███████░░░] 70%
-JavaScript  \[██████░░░░] 60%
 
 
 
