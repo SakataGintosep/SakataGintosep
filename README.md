@@ -1,5 +1,6 @@
 
 
+```md
 <h1 align="center">Hi 👋, I'm Putra Bima</h1>
 <h3 align="center">🚀 Full Stack Developer | Android & Game Scripting Enthusiast</h3>
 
@@ -10,7 +11,7 @@
 ```bash
 # Lang?
 C++ | Java | Python | Lua | HTML | CSS | JavaScript
-
+`````
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
 
@@ -20,7 +21,7 @@ C++ | Java | Python | Lua | HTML | CSS | JavaScript
 📦 Experienced in Firebase, GitHub Actions CI/CD, and Crashlytics
 
 ---
-`````
+
 ### 🧰 Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-000?\&logo=Java\&logoColor=red)
@@ -68,11 +69,6 @@ C++ | Java | Python | Lua | HTML | CSS | JavaScript
 </p>
 ```
 
----
-
-### 🎯 BONUS: "Skill Bar" Ala Terminal
-
-Untuk efek bar (seolah mengisi), kita bisa pakai **Unicode block** seperti ini:
 
 ```md
 ### 💻 Skill Progress
